@@ -100,8 +100,8 @@ main {
   margin: 10px;
 
   height: 50px;
-  width: 50px;
-  border-radius: 25px;
+  width: 70px;
+  border-radius: 10px;
 
   display: flex;
   align-items: center;
@@ -110,7 +110,7 @@ main {
   background: #0088ff;
   color: #ffffff;
 
-  font-size: 48px;
+  font-size: 24px;
 }
 
 .total {
